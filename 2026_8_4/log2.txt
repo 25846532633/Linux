@@ -1,0 +1,8 @@
+total 72
+-rw-r--r-- 1 cgz cgz     0 Aug  4 12:54 log2.txt
+-rw-rw-r-- 1 cgz cgz    42 Aug  4 12:04 log.txt
+-rw-rw-r-- 1 cgz cgz    59 Aug  4 11:30 makefile
+-rwxrwxr-x 1 cgz cgz 26120 Aug  4 12:24 test
+-rwxrwxr-x 1 cgz cgz 26088 Aug  4 12:41 test2
+-rw-rw-r-- 1 cgz cgz   514 Aug  4 12:41 test2.c
+-rw-rw-r-- 1 cgz cgz  1024 Aug  4 12:41 test.c
